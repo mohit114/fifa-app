@@ -1,6 +1,4 @@
 # fifa-worldcup-2018-prediction-app
-
-> fifa worldcup 2018 predict and win online contest
 > https://fifa-2018-205516.firebaseapp.com/signin
 
 ## Build Setup
