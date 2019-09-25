@@ -1,6 +1,10 @@
 # fifa-worldcup-2018-prediction-app
 > https://fifa-2018-205516.firebaseapp.com/signin
 
+# Please login with below credentials:
+> username: mohit.maharjan@nepasoft.com
+> password: maharjan@123
+
 ## Build Setup
 
 ``` bash
